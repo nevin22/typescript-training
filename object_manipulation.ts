@@ -8,4 +8,4 @@ const person: {
 
 enum Role { TAE, SHIT, POOP };
 
-console.log(`my name is ${person.name} and my age is ${person.age}`);
+console.log(`my name is ${person.name} and my age iss ${person.age}`);
